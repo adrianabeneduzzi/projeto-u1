@@ -38,3 +38,4 @@ function moeda2(simbolo){
 
 } 
 
+//2:58
